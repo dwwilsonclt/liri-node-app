@@ -1,0 +1,392 @@
+TWEETS FOLLOW
+========================
+   Just finished a node.js project to map distance and travel time for volunteer work i'm doing.  cool!
+Sun Apr 23 14:45:03 +0000 2017
+   RT @bigfatsurprise: Ditch the egg white omelets, low-fat diet, soy milk + other spring cleaning tips. My piece in WashPost today. https://t…
+   Big day yesterday at the Bootcamp - hang on to your huggies!
+Mon Apr 24 13:09:21 +0000 2017
+Sun Apr 23 14:40:40 +0000 2017
+   RT @JonahNRO: Farewell, Kate. 
+https://t.co/HqkgbXLlj9
+Mon Apr 24 14:51:00 +0000 2017
+   LIRI status update - moving to REQUEST and SPOTIFY functionality
+Sun Apr 23 14:47:44 +0000 2017
+Mon Apr 24 23:16:52 +0000 2017
+   Just got Twitter node to work!  Big day!  The trip is now all downhill I think (KOW - knock on wood)!
+Mon Apr 24 22:38:32 +0000 2017
+   @TheBaxterBean @Lynn_Henning Lynn - don't like your politics man - stick to sports.  Deficits didn't mean anything during Obama years
+Mon Apr 24 23:40:02 +0000 2017
+Tue Apr 25 02:17:27 +0000 2017
+   @BidDaddyCLT @TheBaxterBean Deficits are cumulative from many years past. Rates under Obama decreased as part of GD… https://t.co/mFOCff7nyr
+   @Lynn_Henning @TheBaxterBean https://t.co/kiMAx1GW3rDon't lecture on citizenship.  Fool.
+Tue Apr 25 02:18:49 +0000 2017
+   @BidDaddyCLT @TheBaxterBean Not lecturing. Testifying.
+========================
+TWEETS FOLLOW
+Sun Apr 23 14:40:40 +0000 2017
+   Just finished a node.js project to map distance and travel time for volunteer work i'm doing.  cool!
+Sun Apr 23 14:45:03 +0000 2017
+   RT @bigfatsurprise: Ditch the egg white omelets, low-fat diet, soy milk + other spring cleaning tips. My piece in WashPost today. https://t…
+Sun Apr 23 14:47:44 +0000 2017
+   Big day yesterday at the Bootcamp - hang on to your huggies!
+Mon Apr 24 13:09:21 +0000 2017
+   RT @JonahNRO: Farewell, Kate. 
+https://t.co/HqkgbXLlj9
+Mon Apr 24 14:51:00 +0000 2017
+   LIRI status update - moving to REQUEST and SPOTIFY functionality
+   Just got Twitter node to work!  Big day!  The trip is now all downhill I think (KOW - knock on wood)!
+Mon Apr 24 22:38:32 +0000 2017
+Mon Apr 24 23:16:52 +0000 2017
+Mon Apr 24 23:40:02 +0000 2017
+   @TheBaxterBean @Lynn_Henning Lynn - don't like your politics man - stick to sports.  Deficits didn't mean anything during Obama years
+   @BidDaddyCLT @TheBaxterBean Deficits are cumulative from many years past. Rates under Obama decreased as part of GD… https://t.co/mFOCff7nyr
+Tue Apr 25 02:18:49 +0000 2017
+Tue Apr 25 02:17:27 +0000 2017
+   @Lynn_Henning @TheBaxterBean https://t.co/kiMAx1GW3rDon't lecture on citizenship.  Fool.
+   @BidDaddyCLT @TheBaxterBean Not lecturing. Testifying.
+========================
+SPOTIFY FOLLOWS
+Song search - The Sign
+Album name - Sign 'O' The Times
+    Album preview link: https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B
+    Performed by artist - Prince
+Album name - In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+    Album preview link: https://open.spotify.com/album/4DZb3yX9PFxtIzgWgfhTck
+    Performed by artist - The Americanos
+Album name - The Fate of the Furious: The Album
+    Album preview link: https://open.spotify.com/album/2FoY0AdBnIYxOH7Z2arD89
+    Performed by artist - Various Artists
+Album name - Spotify Session
+    Album preview link: https://open.spotify.com/album/06fX7PRgASxHLhhn9F4fXH
+    Performed by artist - Ty Dolla $ign
+    Album preview link: https://open.spotify.com/album/0nQFgMfnmWrcWDOQqIgJL7
+Album name - Greatest Hits
+Album name - Fan of A Fan The Album (Deluxe Version)
+    Album preview link: https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G
+    Performed by artist - Tyga
+    Performed by artist - Chris Brown
+Album name - A Rush Of Blood To The Head
+    Album preview link: https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ
+Album name - Peace Is The Mission (Extended)
+    Performed by artist - Coldplay
+    Performed by artist - Ace of Base
+    Album preview link: https://open.spotify.com/album/0ct1bK2jijAkf6IxP9B0st
+    Performed by artist - Major Lazer
+Album name - Blasé (feat. Future & Rae Sremmurd) [Remixes]
+    Album preview link: https://open.spotify.com/album/3p9GkUQ1DYdesCz6FPCz3B
+    Performed by artist - Ty Dolla $ign
+Album name - GTTM: Goin Thru the Motions
+    Album preview link: https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2
+    Performed by artist - PnB Rock
+Album name - Don't Get Much Better (with Jeremih, Ty Dolla $ign & Sage The Gemini)
+    Performed by artist - Sage The Gemini
+    Album preview link: https://open.spotify.com/album/08AixLGdW4Gb9ScGQBUJgI
+    Performed by artist - Ty Dolla $ign
+    Performed by artist - Jeremih
+Album name - Coloring Book
+    Album preview link: https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB
+    Performed by artist - Chance The Rapper
+Album name - Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+    Album preview link: https://open.spotify.com/album/1wJ0LO5PnMZDTrWR2C7qQ8
+    Performed by artist - Juicy J, Wiz Khalifa & Ty Dolla $ign
+Album name - Spotify Session
+    Album preview link: https://open.spotify.com/album/06fX7PRgASxHLhhn9F4fXH
+    Performed by artist - Ty Dolla $ign
+Album name - The Divine Feminine
+    Album preview link: https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ
+    Performed by artist - Mac Miller
+Album name - Suicide Squad: The Album
+    Album preview link: https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8
+    Performed by artist - Various Artists
+Album name - The Sign (US Album) [Remastered]
+    Album preview link: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+    Performed by artist - Ace of Base
+Album name - Late Nights: The Album
+    Album preview link: https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96
+    Performed by artist - Jeremih
+Album name - Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+    Album preview link: https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK
+    Performed by artist - Ty Dolla $ign
+Album name - Sign of the Times
+    Album preview link: https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR
+    Performed by artist - Harry Styles
+========================
+SPOTIFY FOLLOWS
+Song search - desperado 
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - Wallflower (Deluxe Edition)
+    Album preview link: https://open.spotify.com/album/0y23DgLgmNM6o3SLlXV0Xd
+    Performed by artist - Diana Krall
+Album name - Red. White. Green.
+    Album preview link: https://open.spotify.com/album/0f5IsHC3UGJWV1DtsliNEe
+    Performed by artist - Upon A Burning Body
+Album name - Love Their Country
+    Album preview link: https://open.spotify.com/album/149ylwr53GvMR8fhKoFEme
+    Performed by artist - Me First and the Gimme Gimmes
+Album name - Broke With Expensive Taste
+    Album preview link: https://open.spotify.com/album/2hwg465rtFiu9UqPs0k7Ku
+Album name - ANTI (Deluxe)
+    Performed by artist - Azealia Banks
+    Album preview link: https://open.spotify.com/album/3SJBLyMdjlp7N09Zb6sh4G
+    Performed by artist - Rihanna
+Album name - ANTI
+    Album preview link: https://open.spotify.com/album/2uN9icB3V4A5Tp7MiIvW2l
+    Performed by artist - Rihanna
+Album name - Their Greatest Hits 1971-1975 (Remastered)
+    Album preview link: https://open.spotify.com/album/2Lgsa7jbu86SK5zJVFCh3S
+    Performed by artist - Eagles
+Album name - Greatest Hits
+    Album preview link: https://open.spotify.com/album/2c1M2gj8SPkArjb7LpYRWL
+    Performed by artist - Clint Black
+Album name - Eagles Live
+    Album preview link: https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2
+    Performed by artist - Eagles
+Album name - Don't Cry Now
+    Album preview link: https://open.spotify.com/album/1ZXDs2Evh55odV3hbxE6Yp
+    Performed by artist - Linda Ronstadt
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - American IV: The Man Comes Around
+    Album preview link: https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9
+    Performed by artist - Johnny Cash
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - The Very Best Of The Eagles (Remastered)
+    Album preview link: https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa
+    Performed by artist - Eagles
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - ANTI (Deluxe)
+    Album preview link: https://open.spotify.com/album/19O3rXe4nDu9YDcc2tOQVn
+    Performed by artist - Rihanna
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - ANTI
+    Album preview link: https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV
+    Performed by artist - Rihanna
+========================
+SPOTIFY FOLLOWS
+Song search - desperado 
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - Wallflower (Deluxe Edition)
+    Album preview link: https://open.spotify.com/album/0y23DgLgmNM6o3SLlXV0Xd
+    Performed by artist - Diana Krall
+Album name - Red. White. Green.
+    Album preview link: https://open.spotify.com/album/0f5IsHC3UGJWV1DtsliNEe
+    Album preview link: https://open.spotify.com/album/149ylwr53GvMR8fhKoFEme
+    Performed by artist - Me First and the Gimme Gimmes
+    Performed by artist - Upon A Burning Body
+    Performed by artist - Azealia Banks
+    Album preview link: https://open.spotify.com/album/2hwg465rtFiu9UqPs0k7Ku
+Album name - ANTI (Deluxe)
+    Album preview link: https://open.spotify.com/album/3SJBLyMdjlp7N09Zb6sh4G
+    Performed by artist - Rihanna
+Album name - ANTI
+    Album preview link: https://open.spotify.com/album/2uN9icB3V4A5Tp7MiIvW2l
+    Performed by artist - Rihanna
+Album name - Their Greatest Hits 1971-1975 (Remastered)
+    Album preview link: https://open.spotify.com/album/2Lgsa7jbu86SK5zJVFCh3S
+    Performed by artist - Eagles
+Album name - Greatest Hits
+    Album preview link: https://open.spotify.com/album/2c1M2gj8SPkArjb7LpYRWL
+    Performed by artist - Clint Black
+Album name - Eagles Live
+    Album preview link: https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2
+    Performed by artist - Eagles
+Album name - Don't Cry Now
+    Album preview link: https://open.spotify.com/album/1ZXDs2Evh55odV3hbxE6Yp
+    Performed by artist - Linda Ronstadt
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - American IV: The Man Comes Around
+    Album preview link: https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9
+    Performed by artist - Johnny Cash
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Performed by artist - Eagles
+Album name - Desperado (Remastered)
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+Album name - The Very Best Of The Eagles (Remastered)
+    Album preview link: https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa
+    Performed by artist - Eagles
+Album name - Desperado (Remastered)
+    Performed by artist - Eagles
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+Album name - ANTI (Deluxe)
+Album name - Love Their Country
+    Performed by artist - Rihanna
+Album name - Desperado (Remastered)
+    Performed by artist - Eagles
+Album name - ANTI
+    Album preview link: https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM
+    Album preview link: https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV
+    Performed by artist - Eagles
+    Performed by artist - Rihanna
+    Album preview link: https://open.spotify.com/album/19O3rXe4nDu9YDcc2tOQVn
+Album name - Broke With Expensive Taste
+========================
+OMDB SEARCH FOLLOWS:
+ Year movie came out : 2009
+The movie's name is : Mr. Nobody
+ IMDB rating  : 7.9
+ Plot of the movie : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Language : English, Mohawk
+ Actors : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ Rotten Tomatoes Rating : 64%
+ Country produced : Belgium, Germany, Canada, France
+ Website : http://www.magpictures.com/mrnobody/
+OMDB SEARCH FOLLOWS:
+========================
+The movie's name is : The Godfather
+ Year movie came out : 1972
+ Country produced : USA
+ IMDB rating  : 9.2
+ Plot of the movie : The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+ Language : English, Italian, Latin
+ Rotten Tomatoes Rating : 99%
+ Actors : Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+ Website : http://www.thegodfather.com
+DO WHAT IT SAYS===========================SPOTIFY FOLLOWS
+========================
+Song search - "I Want it That Way"
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/6NyXQ3yStxAYb5kUjgKzRw
+Album name - I Want It That Way
+    Performed by artist - FROIDZ
+    Album preview link: https://open.spotify.com/album/38k1kWpEpMfMRBmyL5FMi6
+    Performed by artist - Joseph Vincent
+    Performed by artist - Jason Chen
+Album name - PMJ Is For Lovers: The Love Song Collection
+    Album preview link: https://open.spotify.com/album/3ML7JPnFJCwqWQ9593iNW8
+    Performed by artist - Scott Bradlee's Postmodern Jukebox
+Album name - Selfies on Kodachrome
+    Album preview link: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Album name - NKOTBSB
+    Performed by artist - Scott Bradlee's Postmodern Jukebox
+    Album preview link: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+    Performed by artist - NKOTBSB
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/6sBR6yebVg4PX9ZzlgR4rr
+    Performed by artist - Julia Sheer
+    Performed by artist - Landon Austin
+    Album preview link: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+Album name - NOW That's What I Call 90s Pop
+Album name - I Want It That Way
+    Performed by artist - Various Artists
+    Album preview link: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+    Performed by artist - Steel Panther
+    Album preview link: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+Album name - The Essential "Weird Al" Yankovic
+    Performed by artist - "Weird Al" Yankovic
+Album name - Poodle Hat
+Album name - New Acoustic Sessions, Vol. 3
+    Performed by artist - "Weird Al" Yankovic
+Album name - Punk Goes Pop
+    Performed by artist - Boyce Avenue
+    Album preview link: https://open.spotify.com/album/4gU5s9CPcYF1qDt5zCePiU
+    Album preview link: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+    Album preview link: https://open.spotify.com/album/7LfKQOyYrhtCEqR4rr2J2M
+    Performed by artist - Various Artists
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/01MwM46RP1hQqURHnWjxjl
+    Performed by artist - Kyle Olthoff
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/2TjFN2fzqwXvU0op1FPVml
+    Performed by artist - Brittany Howard
+    Performed by artist - Jim James
+Album name - Covers Part IV
+    Album preview link: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+    Performed by artist - Anthem Lights
+Album name - Bye Bye Bye / I Want It That Way (Glee Cast Version)
+    Album preview link: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+    Performed by artist - Glee Cast
+Album name - The Essential Backstreet Boys
+    Performed by artist - Backstreet Boys
+Album name - 90 Sweet 90s Hits!
+    Album preview link: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+    Performed by artist - Various Artists
+Album name - Millennium
+    Album preview link: https://open.spotify.com/album/0A0F3AqFbEy1ZQgJwAXFzm
+    Album preview link: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+    Performed by artist - Backstreet Boys
+Album name - The Hits--Chapter One
+    Album preview link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+    Performed by artist - Backstreet Boys
+DO WHAT IT SAYS===================================================
+Song search - "I Want it That Way"
+Album name - I Want It That Way
+SPOTIFY FOLLOWS
+    Performed by artist - FROIDZ
+    Album preview link: https://open.spotify.com/album/6NyXQ3yStxAYb5kUjgKzRw
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/38k1kWpEpMfMRBmyL5FMi6
+    Performed by artist - Joseph Vincent
+    Album preview link: https://open.spotify.com/album/3ML7JPnFJCwqWQ9593iNW8
+    Performed by artist - Scott Bradlee's Postmodern Jukebox
+    Performed by artist - Jason Chen
+Album name - Selfies on Kodachrome
+    Album preview link: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Album name - NKOTBSB
+    Performed by artist - Scott Bradlee's Postmodern Jukebox
+Album name - PMJ Is For Lovers: The Love Song Collection
+    Performed by artist - NKOTBSB
+    Album preview link: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/6sBR6yebVg4PX9ZzlgR4rr
+    Performed by artist - Julia Sheer
+    Performed by artist - Landon Austin
+Album name - NOW That's What I Call 90s Pop
+    Album preview link: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+    Performed by artist - Various Artists
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+    Performed by artist - Steel Panther
+Album name - The Essential "Weird Al" Yankovic
+    Album preview link: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+    Performed by artist - "Weird Al" Yankovic
+Album name - Poodle Hat
+    Album preview link: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+    Performed by artist - "Weird Al" Yankovic
+    Album preview link: https://open.spotify.com/album/4gU5s9CPcYF1qDt5zCePiU
+Album name - New Acoustic Sessions, Vol. 3
+Album name - Punk Goes Pop
+    Album preview link: https://open.spotify.com/album/7LfKQOyYrhtCEqR4rr2J2M
+    Performed by artist - Various Artists
+    Album preview link: https://open.spotify.com/album/01MwM46RP1hQqURHnWjxjl
+    Performed by artist - Boyce Avenue
+    Performed by artist - Kyle Olthoff
+Album name - I Want It That Way
+    Album preview link: https://open.spotify.com/album/2TjFN2fzqwXvU0op1FPVml
+    Performed by artist - Jim James
+Album name - I Want It That Way
+    Performed by artist - Brittany Howard
+Album name - Covers Part IV
+    Performed by artist - Anthem Lights
+    Album preview link: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+Album name - Bye Bye Bye / I Want It That Way (Glee Cast Version)
+    Album preview link: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+    Album preview link: https://open.spotify.com/album/0A0F3AqFbEy1ZQgJwAXFzm
+    Performed by artist - Backstreet Boys
+Album name - The Essential Backstreet Boys
+Album name - 90 Sweet 90s Hits!
+    Album preview link: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+    Performed by artist - Glee Cast
+    Performed by artist - Various Artists
+Album name - Millennium
+    Album preview link: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+    Performed by artist - Backstreet Boys
+    Performed by artist - Backstreet Boys
+    Album preview link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Album name - The Hits--Chapter One
