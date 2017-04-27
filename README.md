@@ -4,7 +4,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 All liri execution logged into log.txt file 
 
-Test scripts follow:\n
+Test scripts follow:\r\n
 
 1	node liri  my-tweets\n
 2	node liri  my-tweets,blah
