@@ -1,4 +1,4 @@
-// LOAD NPM - TWITTER
+//LOAD NPM - TWITTER
 var Twitter = require('twitter');
 var keys = require("./keys.js");
 var config = keys.twitterKeys;
