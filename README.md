@@ -14,27 +14,15 @@ All liri execution logged into log.txt file
 Test scripts follow:
 ====================
 
-- 1	node liri  my-tweets
-- 2	node liri  my-tweets,blah
-- 3	node liri  spotify-this-song
-- 4	node liri  spotify-this-song,desperado
-- 5	node liri  spotify-this-song desperado
-- 6	node liri  movie-this
-- 7	node liri  movie-this the godfather
-- 8	node liri  do-what-it-says
-- 9	node liri  do-what-it-says,blah
+ -' node liri  my-tweets'[  logging of recent tweets]
+ -' node liri  my-tweets,blah'[  verify running after programatically removing improper user entry of parameter]
+ - 'node liri  spotify-this-song'[  verify default of "The Sign" with no parameter entry]
+ -' node liri  spotify-this-song,desperado'[  verify running after programatically removing improper user entry of parameter; should run song desperado]
+ - 'node liri  spotify-this-song desperado'[  verify song desperado run]
+ -' node liri  movie-this'[  verify OMDB "Mr Nobody" is run with no parameter entry]
+ -' node liri  movie-this the godfather'[  verify OMDB the godfather]
+ -' node liri  do-what-it-says'[  verify runs random.txt with song "I Want it That Way"]
+ - 'node liri  do-what-it-says,blah'[  verify running after programatically removing improper user entry of parameter]
 
-Expectation and validation of results:
---------------------------------------
-
--1	logging of recent tweets
--2	verify running after programatically removing improper user entry of parameter
--3	verify default of "The Sign" with no parameter entry
--4	verify running after programatically removing improper user entry of parameter; should run song desperado
--5	verify song desperado run
--6	verify OMDB "Mr Nobody" is run with no parameter entry
--7	verify OMDB the godfather
--8	verify runs random.txt with song "I Want it That Way"
--9	verify running after programatically removing improper user entry of parameter
 
 **NOTE: VERIFICATION PROVIDED IN testvalidation.txt file 4-25-2017 - Approved by Davis
